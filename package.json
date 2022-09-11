@@ -1,0 +1,15 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "test sample project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Akshay Netake",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
